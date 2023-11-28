@@ -1,4 +1,8 @@
-![Apside French banner](https://github.com/ApsideGroupe/.github/blob/main/profile/assets/images/banner-fr.png "Apside French banner")
+[![Apside French banner](https://github.com/ApsideGroupe/.github/blob/main/profile/assets/images/banner-fr.png "Apside French banner")](https://www.apside.com)
+
+|FR|EN|PT|
+|--|--|--|
+|[:fr:]()|[link]()|[link]()|
 
 ## Notre engagement
 
