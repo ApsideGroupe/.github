@@ -1,8 +1,6 @@
 [![Apside French banner](https://github.com/ApsideGroupe/.github/blob/main/profile/assets/images/banner-fr.png "Apside French banner")](https://www.apside.com)
 
-|FR|EN|PT|
-|--|--|--|
-|[:fr:]()|[link]()|[link]()|
+[:fr:]() [:gb:]()
 
 ## Notre engagement
 
